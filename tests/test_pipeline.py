@@ -15,7 +15,7 @@ def test_sqlite_database():
     conn = sqlite3.connect('data/clean/helpdesk.db')
     count = conn.execute('SELECT COUNT(*) FROM tickets').fetchone()
     conn.close()
-    assert count == 66691, f'Expected 66691 rows in DB, got {count}'
+    assert count == (66691,), f'Expected 66691 rows in DB, got {count}'
 
 def test_kpis_and_charts():
     assert os.path.exists('reports/kpis.json'), 'KPIs JSON missing'

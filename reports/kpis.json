@@ -1,0 +1,12 @@
+{
+    "total_tickets": 66691,
+    "resolved_tickets": 65838,
+    "pending_tickets": 853,
+    "sla_met_count": 9966,
+    "sla_breached_count": 55872,
+    "sla_compliance_pct": 14.94,
+    "avg_resolution_hours": 18482.55,
+    "median_resolution_hours": 837.81,
+    "reopen_rate_pct": 3.18,
+    "unassigned_pct": 46.55
+}

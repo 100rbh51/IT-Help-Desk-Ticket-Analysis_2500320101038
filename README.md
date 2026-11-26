@@ -1,5 +1,8 @@
 # IT Help-Desk Ticket Analysis (End-to-End Data Analytics Project)
 
+
+**Live Interactive Dashboard:** [Launch Streamlit App](https://it-app-desk-ticket-analysis2500320101038-8mvdyqpmtdyma4tbtwaqf.streamlit.app/)
+
 An end-to-end IT Service Management (ITSM) analytics pipeline analyzing 66,691 IT help-desk tickets across workflow stages, SLA compliance, agent workload, and project bottlenecks using Python, SQL (SQLite), Excel, Power BI, and Streamlit.
 
 ## Key Business Findings (KPIs)
